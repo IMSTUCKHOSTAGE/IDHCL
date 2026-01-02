@@ -8,5 +8,10 @@
     "percentToQualify": "50",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "diddy",
+            "link": "this is a test"
+            "percent" : 100,
+            "hz" : 240,
     ]
 }
