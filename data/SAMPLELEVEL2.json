@@ -13,5 +13,6 @@
             "link": "this is a test"
             "percent" : 100,
             "hz" : 240,
+        }
     ]
 }
